@@ -103,7 +103,7 @@ export default function FAQSection() {
             </button>
 
             <p className="text-xs text-gray-500 mt-3">
-              Free 3D Scan • EMI Available • Limited Slots
+              Free 3D Scan • Limited Slots
             </p>
           </div>
 

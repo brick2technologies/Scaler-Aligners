@@ -90,7 +90,7 @@ export default function ContactSection() {
             </button>
 
             <p className="text-xs text-gray-500 mt-4">
-              Free Consultation • EMI Available • No Hidden Charges
+              Free Consultation • No Hidden Charges
             </p>
 
           </div>

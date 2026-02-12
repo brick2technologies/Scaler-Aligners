@@ -47,7 +47,6 @@ export default function HeroSection() {
               "No Painful Wires",
               "Eat Anything You Love",
               "100% Customized for Your Teeth",
-              "Easy EMI Options Available",
             ].map((item, index) => (
               <li key={index} className="flex items-center gap-3">
                 <CheckCircle

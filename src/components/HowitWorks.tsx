@@ -122,7 +122,7 @@ export default function HowItWorks() {
             </button>
 
             <p className="text-xs text-gray-500 mt-3">
-              Free Consultation • EMI Available • Limited Slots
+              Free Consultation • Limited Slots
             </p>
           </motion.div>
 
