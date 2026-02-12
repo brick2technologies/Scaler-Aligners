@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+@font-face {
+  font-family: 'Arumira';
+  src: url('/Arumira-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Arumira', sans-serif;
+}
+
+p {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+html {
+  scroll-behavior: smooth;
+}
