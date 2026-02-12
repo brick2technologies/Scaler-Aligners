@@ -1,4 +1,4 @@
-import { Phone, MapPin, Clock } from "lucide-react";
+import { Phone, MapPin } from "lucide-react";
 import { useState } from "react";
 import LeadModal from "./LeadModal";
 
@@ -36,8 +36,8 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Call Us</p>
-                  <p className="font-semibold text-gray-900">
-                    +91 XXXXX XXXXX
+                  <p className="font-medium text-gray-900">
+                    +91 798 950 5377
                   </p>
                 </div>
               </div>
@@ -48,13 +48,13 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Visit Us</p>
-                  <p className="font-semibold text-gray-900">
+                  <p className="font-medium text-gray-900">
                     SR Nagar, Hyderabad
                   </p>
                 </div>
               </div>
 
-              <div className="flex items-center gap-4">
+              {/* <div className="flex items-center gap-4">
                 <div className="bg-teal-100 p-3 rounded-full">
                   <Clock className="w-5 h-5 text-teal-600" />
                 </div>
@@ -64,7 +64,7 @@ export default function ContactSection() {
                     Mon – Sat | 10 AM – 8 PM
                   </p>
                 </div>
-              </div>
+              </div> */}
 
             </div>
 

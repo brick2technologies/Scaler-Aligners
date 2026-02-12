@@ -45,7 +45,7 @@ export default function Footer() {
           <p className="text-sm text-gray-600">
             Scaler Dental Studio<br />
             sr nagar, Hyderabad<br />
-            📞 +91 XXXXX XXXXX
+            📞 +91 798 950 5377
           </p>
         </div>
 
